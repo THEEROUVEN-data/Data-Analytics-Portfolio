@@ -1,0 +1,11 @@
+customer_id,customer_name,order_date,amount,category,quantity
+101,John Smith,2024-01-15,250.5,Electronics,2.0
+102,Jane Doe,2024-01-16,99.99,Electronics,1.0
+103,Alice Brown,2024-01-17,1200.0,Clothing,3.0
+104,Bob White,2024-01-17,45.0,Clothing,2.0
+105,Charlie Black,2024-01-18,78.25,Food,1.0
+106,Diana Green,2024-01-19,15000.0,Electronics,5.0
+107,Ethan Grey,2024-01-20,60.0,Food,2.0
+108,Fiona Blue,2024-01-21,35.5,Clothing,2.0
+109,George Pink,2024-01-22,89.0,Food,1.0
+110,Hannah Gold,2024-01-23,120.0,Electronics,2.0
