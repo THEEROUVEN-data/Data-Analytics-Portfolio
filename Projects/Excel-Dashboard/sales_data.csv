@@ -75,7 +75,7 @@ order_id,month,product,category,region,quantity,unit_price
 74,May,Desk Chair,Furniture,West,5,815.75
 75,May,Laptop,Electronics,North,7,748.12
 76,Jun,Laptop,Electronics,North,6,696.3
-77,Jun,Desk Chair,Furniture,South,8,501.0
+77,Jun,Desk Chair,Furniture,South,8,501
 78,Jun,Pen Set,Stationery,North,2,76.97
 79,Jun,Keyboard,Electronics,North,6,528.43
 80,Jun,Keyboard,Electronics,West,3,47.23
