@@ -1,0 +1,91 @@
+order_id,month,product,category,region,quantity,unit_price
+1,Jan,Mouse,Electronics,North,5,227.95
+2,Jan,Keyboard,Electronics,North,9,87.38
+3,Jan,Pen Set,Stationery,North,1,93.39
+4,Jan,Monitor,Electronics,North,9,186.97
+5,Jan,Pen Set,Stationery,South,8,534.45
+6,Jan,Laptop,Electronics,South,7,312.82
+7,Jan,Keyboard,Electronics,South,6,100.97
+8,Jan,Pen Set,Stationery,North,6,764.27
+9,Jan,Desk Chair,Furniture,North,8,487.24
+10,Jan,Pen Set,Stationery,North,9,270.93
+11,Jan,Notebook,Stationery,South,2,50.78
+12,Jan,Monitor,Electronics,East,2,771.23
+13,Jan,Mouse,Electronics,West,5,413.54
+14,Jan,Notebook,Stationery,South,6,326.19
+15,Jan,Desk Chair,Furniture,North,10,575.13
+16,Feb,Monitor,Electronics,South,8,347.72
+17,Feb,Monitor,Electronics,East,1,213.85
+18,Feb,Laptop,Electronics,East,7,248.29
+19,Feb,Monitor,Electronics,East,4,593.34
+20,Feb,Pen Set,Stationery,West,3,245.74
+21,Feb,Monitor,Electronics,East,10,391.31
+22,Feb,Pen Set,Stationery,East,4,897.62
+23,Feb,Keyboard,Electronics,West,2,682.65
+24,Feb,Mouse,Electronics,South,3,714.95
+25,Feb,Pen Set,Stationery,North,7,349.64
+26,Feb,Bookshelf,Furniture,East,9,776.09
+27,Feb,Laptop,Electronics,North,9,678.28
+28,Feb,Notebook,Stationery,North,5,396.94
+29,Feb,Bookshelf,Furniture,North,5,874.98
+30,Feb,Keyboard,Electronics,North,5,759.09
+31,Mar,Monitor,Electronics,South,6,688.63
+32,Mar,Laptop,Electronics,East,8,27.33
+33,Mar,Notebook,Stationery,East,4,61.55
+34,Mar,Mouse,Electronics,North,8,736.26
+35,Mar,Keyboard,Electronics,South,8,852.7
+36,Mar,Keyboard,Electronics,East,9,786.47
+37,Mar,Pen Set,Stationery,South,9,682.19
+38,Mar,Monitor,Electronics,East,7,895.68
+39,Mar,Notebook,Stationery,West,9,411.82
+40,Mar,Monitor,Electronics,South,2,310.9
+41,Mar,Monitor,Electronics,South,1,73.18
+42,Mar,Laptop,Electronics,South,2,815.82
+43,Mar,Notebook,Stationery,North,9,221.82
+44,Mar,Bookshelf,Furniture,South,9,127.76
+45,Mar,Bookshelf,Furniture,South,8,728.67
+46,Apr,Monitor,Electronics,North,2,596.49
+47,Apr,Notebook,Stationery,West,7,425.65
+48,Apr,Laptop,Electronics,North,1,368.33
+49,Apr,Notebook,Stationery,North,4,180.52
+50,Apr,Bookshelf,Furniture,South,7,173.3
+51,Apr,Bookshelf,Furniture,South,2,404.39
+52,Apr,Mouse,Electronics,North,9,754.06
+53,Apr,Mouse,Electronics,South,3,371.71
+54,Apr,Bookshelf,Furniture,South,7,813.17
+55,Apr,Keyboard,Electronics,West,1,886.92
+56,Apr,Desk Chair,Furniture,West,5,386.48
+57,Apr,Bookshelf,Furniture,South,4,274.07
+58,Apr,Laptop,Electronics,North,6,60.88
+59,Apr,Bookshelf,Furniture,South,1,865.09
+60,Apr,Mouse,Electronics,South,2,539.58
+61,May,Monitor,Electronics,West,2,848.02
+62,May,Monitor,Electronics,North,10,82.97
+63,May,Notebook,Stationery,East,4,606.06
+64,May,Notebook,Stationery,South,5,362.25
+65,May,Desk Chair,Furniture,West,6,836.83
+66,May,Mouse,Electronics,North,8,562.83
+67,May,Mouse,Electronics,North,9,199.71
+68,May,Desk Chair,Furniture,South,6,793.97
+69,May,Monitor,Electronics,East,5,150.39
+70,May,Desk Chair,Furniture,North,9,276.45
+71,May,Mouse,Electronics,South,5,112.73
+72,May,Mouse,Electronics,South,5,260.76
+73,May,Monitor,Electronics,East,4,621.87
+74,May,Desk Chair,Furniture,West,5,815.75
+75,May,Laptop,Electronics,North,7,748.12
+76,Jun,Laptop,Electronics,North,6,696.3
+77,Jun,Desk Chair,Furniture,South,8,501.0
+78,Jun,Pen Set,Stationery,North,2,76.97
+79,Jun,Keyboard,Electronics,North,6,528.43
+80,Jun,Keyboard,Electronics,West,3,47.23
+81,Jun,Notebook,Stationery,North,6,196.97
+82,Jun,Monitor,Electronics,North,6,704.3
+83,Jun,Pen Set,Stationery,South,4,779.5
+84,Jun,Keyboard,Electronics,West,1,169.63
+85,Jun,Notebook,Stationery,West,4,247.46
+86,Jun,Mouse,Electronics,West,1,774.15
+87,Jun,Monitor,Electronics,South,8,321.2
+88,Jun,Monitor,Electronics,South,1,597.43
+89,Jun,Pen Set,Stationery,East,5,779.27
+90,Jun,Desk Chair,Furniture,East,9,365.71
